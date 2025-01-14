@@ -21,7 +21,7 @@
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/SimpleTerminal.git
+    git clone https://github.com/Fdydhchxy54645/SimpleTerminal.git
     cd SimpleTerminal
     ```
 
